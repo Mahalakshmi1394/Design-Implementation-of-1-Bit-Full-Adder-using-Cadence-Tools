@@ -81,7 +81,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![IMG-20241019-WA0036](https://github.com/user-attachments/assets/5fd477fc-ede4-46aa-b9c4-3b24f750108c)
+)
 
  
 Analog simulation by SPECTRE.
@@ -99,7 +100,8 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![IMG-20241019-WA0040](https://github.com/user-attachments/assets/c615ee5b-948a-4b68-a8f5-6b87f0623062)
+)
 
 
  
